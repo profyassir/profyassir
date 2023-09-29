@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mohamed Yassir BENNAOUM
+Mohamed Yassir BENNAOUM  
 Enseignant de Mathématiques
